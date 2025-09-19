@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jensd\\source\\repos\\Oefening1_H3\\",
+  "WorkspaceRootPath": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Oefening1.H3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B34238F6-37A2-430C-BB9B-E85C54618736}|Oefening1_H3\\Oefening1_H3.vbproj|c:\\users\\jensd\\source\\repos\\oefening1_h3\\oefening1_h3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{B34238F6-37A2-430C-BB9B-E85C54618736}|Oefening1_H3\\Oefening1_H3.vbproj|c:\\users\\jensd\\gitrepositories\\6dicw_jens_de_guchteneire_oop\\oefening1.h3\\oefening1_h3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{B34238F6-37A2-430C-BB9B-E85C54618736}|Oefening1_H3\\Oefening1_H3.vbproj|solutionrelative:oefening1_h3\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\Oefening1_H3\\Oefening1_H3\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Oefening1.H3\\Oefening1_H3\\Program.vb",
               "RelativeDocumentMoniker": "Oefening1_H3\\Program.vb",
-              "ToolTip": "C:\\Users\\jensd\\source\\repos\\Oefening1_H3\\Oefening1_H3\\Program.vb",
+              "ToolTip": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Oefening1.H3\\Oefening1_H3\\Program.vb",
               "RelativeToolTip": "Oefening1_H3\\Program.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBEAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-09-19T07:00:59.059Z",
               "EditorCaption": ""

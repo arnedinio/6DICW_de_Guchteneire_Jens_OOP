@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Oefening1.H3\\Oefening1_H3\\Oefening1_H3.vbproj": {}
+    "C:\\Users\\jensd\\source\\repos\\Oefening1.H4\\Oefening1.H4\\Oefening1.H4.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Oefening1.H3\\Oefening1_H3\\Oefening1_H3.vbproj": {
+    "C:\\Users\\jensd\\source\\repos\\Oefening1.H4\\Oefening1.H4\\Oefening1.H4.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Oefening1.H3\\Oefening1_H3\\Oefening1_H3.vbproj",
-        "projectName": "Oefening1_H3",
-        "projectPath": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Oefening1.H3\\Oefening1_H3\\Oefening1_H3.vbproj",
+        "projectUniqueName": "C:\\Users\\jensd\\source\\repos\\Oefening1.H4\\Oefening1.H4\\Oefening1.H4.vbproj",
+        "projectName": "Oefening1.H4",
+        "projectPath": "C:\\Users\\jensd\\source\\repos\\Oefening1.H4\\Oefening1.H4\\Oefening1.H4.vbproj",
         "packagesPath": "C:\\Users\\jensd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Oefening1.H3\\Oefening1_H3\\obj\\",
+        "outputPath": "C:\\Users\\jensd\\source\\repos\\Oefening1.H4\\Oefening1.H4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

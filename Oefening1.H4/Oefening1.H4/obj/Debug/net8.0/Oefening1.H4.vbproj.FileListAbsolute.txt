@@ -1,0 +1,14 @@
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\bin\Debug\net8.0\Oefening1.H4.exe
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\bin\Debug\net8.0\Oefening1.H4.deps.json
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\bin\Debug\net8.0\Oefening1.H4.runtimeconfig.json
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\bin\Debug\net8.0\Oefening1.H4.dll
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\bin\Debug\net8.0\Oefening1.H4.pdb
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\Oefening1.H4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\Oefening1.H4.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\Oefening1.H4.AssemblyInfo.vb
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\Oefening1.H4.vbproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\Oefening1.H4.dll
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\refint\Oefening1.H4.dll
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\Oefening1.H4.pdb
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\Oefening1.H4.genruntimeconfig.cache
+C:\Users\jensd\source\repos\Oefening1.H4\Oefening1.H4\obj\Debug\net8.0\ref\Oefening1.H4.dll
