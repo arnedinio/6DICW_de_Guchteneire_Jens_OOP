@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Oefening1_H3/1.0.0": {
+        "runtime": {
+          "Oefening1_H3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oefening1_H3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
