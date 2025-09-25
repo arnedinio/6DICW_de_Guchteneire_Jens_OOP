@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Oefening1.H5"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b2988fe7359a133740dd124c3589d4f85f029f7"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Oefening1.H5"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Oefening1.H5"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
