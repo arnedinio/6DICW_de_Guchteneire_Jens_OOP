@@ -1,0 +1,14 @@
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\bin\Debug\net8.0\deGuchteneire_Jens_Thiam.exe
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\bin\Debug\net8.0\deGuchteneire_Jens_Thiam.deps.json
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\bin\Debug\net8.0\deGuchteneire_Jens_Thiam.runtimeconfig.json
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\bin\Debug\net8.0\deGuchteneire_Jens_Thiam.dll
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\bin\Debug\net8.0\deGuchteneire_Jens_Thiam.pdb
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\deGuchteneire_Jens_Thiam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\deGuchteneire_Jens_Thiam.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\deGuchteneire_Jens_Thiam.AssemblyInfo.vb
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\deGuchteneire_Jens_Thiam.vbproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\deGuchteneire_Jens_Thiam.dll
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\refint\deGuchteneire_Jens_Thiam.dll
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\deGuchteneire_Jens_Thiam.pdb
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\deGuchteneire_Jens_Thiam.genruntimeconfig.cache
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Thiam\deGuchteneire_Jens_Thiam\obj\Debug\net8.0\ref\deGuchteneire_Jens_Thiam.dll
