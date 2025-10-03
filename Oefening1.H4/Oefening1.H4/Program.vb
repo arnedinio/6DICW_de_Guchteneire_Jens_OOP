@@ -3,55 +3,65 @@ Imports System
 Module Program
 
     Public Class Draak
-        Public strNaam As String
-        Public strAfkomst As String
-        Public chaGeslacht As Char
-        Public intLeeftijd As Integer
-        Public strKlassificatie As String
+        Private strNaam As String
+        Private strAfkomst As String
+        Private chaGeslacht As Char
+        Private intLeeftijd As Integer
+        Private strKlassificatie As String
+
+        Public Sub New(strNaam As String, strAfkomst As String, chaGeslacht As Char, intLeeftijd As Integer, strKlassificatie As String)
+            Me.strNaam = strNaam
+            Me.strAfkomst = strAfkomst
+            Me.chaGeslacht = chaGeslacht
+            Me.intLeeftijd = intLeeftijd
+            Me.strKlassificatie = strKlassificatie
+        End Sub
+
+        Public Function getNaam() As String
+            Return strNaam
+        End Function
+
+        Public Function getAfkomst() As String
+            Return strAfkomst
+        End Function
+
+        Public Function getGeslacht() As Char
+            Return chaGeslacht
+        End Function
+
+        Public Function getLeeftijd() As Integer
+            Return intLeeftijd
+        End Function
+
+        Public Function getKlassificatie() As String
+            Return strKlassificatie
+        End Function
     End Class
-    Sub Main(args As String())
-        Dim objViserion As New Draak()
-        objViserion.strNaam = "Viserion"
-        objViserion.strAfkomst = "Game of Thrones"
-        objViserion.chaGeslacht = "M"
-        objViserion.intLeeftijd = 6
-        objViserion.strKlassificatie = "Dragon, Wight"
-
-        Dim objRhaegal As New Draak()
-        objRhaegal.strNaam = "Rhaegal"
-        objRhaegal.strAfkomst = "Game of Thrones"
-        objRhaegal.chaGeslacht = "M"
-        objRhaegal.intLeeftijd = 7
-        objRhaegal.strKlassificatie = "Dragon"
-
-        Dim objdrogon As New Draak()
-        objdrogon.strNaam = "Drogon"
-        objdrogon.strAfkomst = "Game of Thrones"
-        objdrogon.chaGeslacht = "M"
-        objdrogon.intLeeftijd = 7
-        objdrogon.strKlassificatie = "Dragon"
-
-        Console.WriteLine("Naam: " & objViserion.strNaam)
-        Console.WriteLine("Afkomst: " & objViserion.strAfkomst)
-        Console.WriteLine("Geslacht: " & objViserion.chaGeslacht)
-        Console.WriteLine("Leeftijd: " & objViserion.intLeeftijd)
-        Console.WriteLine("Klassificatie: " & objViserion.strKlassificatie)
+    Sub Main()
+        Dim objViserion As New Draak("Viserion", "Game of Thrones", "M", 6, "Dragon, Wight")
+        Console.WriteLine("Naam: " & objViserion.getNaam())
+        Console.WriteLine("Afkomst: " & objViserion.getAfkomst())
+        Console.WriteLine("Geslacht: " & objViserion.getGeslacht())
+        Console.WriteLine("Leeftijd: " & objViserion.getLeeftijd())
+        Console.WriteLine("Klassificatie: " & objViserion.getKlassificatie())
 
         Console.WriteLine()
 
-        Console.WriteLine("Naam: " & objRhaegal.strNaam)
-        Console.WriteLine("Afkomst: " & objRhaegal.strAfkomst)
-        Console.WriteLine("Geslacht: " & objRhaegal.chaGeslacht)
-        Console.WriteLine("Leeftijd: " & objRhaegal.intLeeftijd)
-        Console.WriteLine("Klassificatie: " & objRhaegal.strKlassificatie)
+        Dim objRhaegal As New Draak("Rhaegal", "Game of Thrones", "M", 7, "Dragon")
+        Console.WriteLine("Naam: " & objRhaegal.getNaam())
+        Console.WriteLine("Afkomst: " & objRhaegal.getAfkomst())
+        Console.WriteLine("Geslacht: " & objRhaegal.getGeslacht())
+        Console.WriteLine("Leeftijd: " & objRhaegal.getLeeftijd())
+        Console.WriteLine("Klassificatie: " & objRhaegal.getKlassificatie())
 
         Console.WriteLine()
 
-        Console.WriteLine("Naam: " & objdrogon.strNaam)
-        Console.WriteLine("Afkomst: " & objdrogon.strAfkomst)
-        Console.WriteLine("Geslacht: " & objdrogon.chaGeslacht)
-        Console.WriteLine("Leeftijd: " & objdrogon.intLeeftijd)
-        Console.WriteLine("Klassificatie: " & objdrogon.strKlassificatie)
+        Dim objdrogon As New Draak("Drogon", "Game of Thrones", "M", 7, "Dragon")
+        Console.WriteLine("Naam: " & objdrogon.getNaam())
+        Console.WriteLine("Afkomst: " & objdrogon.getNaam())
+        Console.WriteLine("Geslacht: " & objdrogon.getGeslacht())
+        Console.WriteLine("Leeftijd: " & objdrogon.getLeeftijd())
+        Console.WriteLine("Klassificatie: " & objdrogon.getKlassificatie())
 
     End Sub
 End Module

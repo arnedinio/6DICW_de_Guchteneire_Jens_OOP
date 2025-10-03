@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Oefening1.H4"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0b6b5c1234032b3f891fa0c705e72e6471ae5e5"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bdc29a3f95d5444cdc8d1a8d665554becbd45b0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Oefening1.H4"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Oefening1.H4"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
