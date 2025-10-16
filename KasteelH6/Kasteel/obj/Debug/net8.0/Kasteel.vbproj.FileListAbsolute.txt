@@ -1,0 +1,14 @@
+C:\Users\jensd\source\repos\Kasteel\Kasteel\bin\Debug\net8.0\Kasteel.exe
+C:\Users\jensd\source\repos\Kasteel\Kasteel\bin\Debug\net8.0\Kasteel.deps.json
+C:\Users\jensd\source\repos\Kasteel\Kasteel\bin\Debug\net8.0\Kasteel.runtimeconfig.json
+C:\Users\jensd\source\repos\Kasteel\Kasteel\bin\Debug\net8.0\Kasteel.dll
+C:\Users\jensd\source\repos\Kasteel\Kasteel\bin\Debug\net8.0\Kasteel.pdb
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\Kasteel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\Kasteel.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\Kasteel.AssemblyInfo.vb
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\Kasteel.vbproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\Kasteel.dll
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\refint\Kasteel.dll
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\Kasteel.pdb
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\Kasteel.genruntimeconfig.cache
+C:\Users\jensd\source\repos\Kasteel\Kasteel\obj\Debug\net8.0\ref\Kasteel.dll
