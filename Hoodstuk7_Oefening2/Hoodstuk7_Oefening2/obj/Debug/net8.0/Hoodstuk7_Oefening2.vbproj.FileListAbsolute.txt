@@ -1,0 +1,14 @@
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\bin\Debug\net8.0\Hoodstuk7_Oefening2.exe
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\bin\Debug\net8.0\Hoodstuk7_Oefening2.deps.json
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\bin\Debug\net8.0\Hoodstuk7_Oefening2.runtimeconfig.json
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\bin\Debug\net8.0\Hoodstuk7_Oefening2.dll
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\bin\Debug\net8.0\Hoodstuk7_Oefening2.pdb
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\Hoodstuk7_Oefening2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\Hoodstuk7_Oefening2.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\Hoodstuk7_Oefening2.AssemblyInfo.vb
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\Hoodstuk7_Oefening2.vbproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\Hoodstuk7_Oefening2.dll
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\refint\Hoodstuk7_Oefening2.dll
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\Hoodstuk7_Oefening2.pdb
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\Hoodstuk7_Oefening2.genruntimeconfig.cache
+C:\Users\jensd\source\repos\Hoodstuk7_Oefening2\Hoodstuk7_Oefening2\obj\Debug\net8.0\ref\Hoodstuk7_Oefening2.dll
