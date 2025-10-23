@@ -1,0 +1,14 @@
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\bin\Debug\net8.0\Hoofdstuk7_Oefening5.exe
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\bin\Debug\net8.0\Hoofdstuk7_Oefening5.deps.json
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\bin\Debug\net8.0\Hoofdstuk7_Oefening5.runtimeconfig.json
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\bin\Debug\net8.0\Hoofdstuk7_Oefening5.dll
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\bin\Debug\net8.0\Hoofdstuk7_Oefening5.pdb
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\Hoofdstuk7_Oefening5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\Hoofdstuk7_Oefening5.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\Hoofdstuk7_Oefening5.AssemblyInfo.vb
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\Hoofdstuk7_Oefening5.vbproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\Hoofdstuk7_Oefening5.dll
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\refint\Hoofdstuk7_Oefening5.dll
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\Hoofdstuk7_Oefening5.pdb
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\Hoofdstuk7_Oefening5.genruntimeconfig.cache
+C:\Users\jensd\source\repos\Hoofdstuk7_Oefening5\Hoofdstuk7_Oefening5\obj\Debug\net8.0\ref\Hoofdstuk7_Oefening5.dll
