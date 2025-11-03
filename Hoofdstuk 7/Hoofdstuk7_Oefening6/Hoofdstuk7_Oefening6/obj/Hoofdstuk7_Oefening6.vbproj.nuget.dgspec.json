@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj": {}
+    "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Hoofdstuk 7\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj": {
+    "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Hoofdstuk 7\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj",
+        "projectUniqueName": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Hoofdstuk 7\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj",
         "projectName": "Hoofdstuk7_Oefening6",
-        "projectPath": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj",
+        "projectPath": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Hoofdstuk 7\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj",
         "packagesPath": "C:\\Users\\jensd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\obj\\",
+        "outputPath": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Hoofdstuk 7\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

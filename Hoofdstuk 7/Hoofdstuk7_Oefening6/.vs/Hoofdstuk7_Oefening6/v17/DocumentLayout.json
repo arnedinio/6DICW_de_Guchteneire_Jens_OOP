@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6\\",
+  "WorkspaceRootPath": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Hoofdstuk 7\\Hoofdstuk7_Oefening6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37307654-483D-4B59-BD83-0BA9482C1448}|Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj|c:\\users\\jensd\\source\\repos\\hoofdstuk7_oefening6\\hoofdstuk7_oefening6\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{37307654-483D-4B59-BD83-0BA9482C1448}|Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj|c:\\users\\jensd\\gitrepositories\\6dicw_jens_de_guchteneire_oop\\hoofdstuk 7\\hoofdstuk7_oefening6\\hoofdstuk7_oefening6\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{37307654-483D-4B59-BD83-0BA9482C1448}|Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6.vbproj|solutionrelative:hoofdstuk7_oefening6\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.vb",
-              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Program.vb",
+              "DocumentMoniker": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Hoofdstuk 7\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Program.vb",
               "RelativeDocumentMoniker": "Hoofdstuk7_Oefening6\\Program.vb",
-              "ToolTip": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Program.vb",
+              "ToolTip": "C:\\Users\\jensd\\GitRepositories\\6DICW_Jens_de_Guchteneire_OOP\\Hoofdstuk 7\\Hoofdstuk7_Oefening6\\Hoofdstuk7_Oefening6\\Program.vb",
               "RelativeToolTip": "Hoofdstuk7_Oefening6\\Program.vb",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAcwCsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowDAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-23T10:20:36.243Z",
               "EditorCaption": ""

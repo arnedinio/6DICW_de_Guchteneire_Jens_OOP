@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Hoofdstuk7_Oefening6"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15c035794f44b5a362db00378538d85f89cb2302"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Hoofdstuk7_Oefening6"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Hoofdstuk7_Oefening6"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
