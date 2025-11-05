@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6_Oefen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC265CD-3724-42F2-B75B-5F28519392F6}|Hoofdstuk7_Oefening6_Oefen\\Hoofdstuk7_Oefening6_Oefen.vbproj|c:\\users\\jensd\\source\\repos\\hoofdstuk7_oefening6_oefen\\hoofdstuk7_oefening6_oefen\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ACC265CD-3724-42F2-B75B-5F28519392F6}|Hoofdstuk7_Oefening6_Oefen\\Hoofdstuk7_Oefening6_Oefen.vbproj|solutionrelative:hoofdstuk7_oefening6_oefen\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6_Oefen\\Hoofdstuk7_Oefening6_Oefen\\Program.vb",
+              "RelativeDocumentMoniker": "Hoofdstuk7_Oefening6_Oefen\\Program.vb",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\Hoofdstuk7_Oefening6_Oefen\\Hoofdstuk7_Oefening6_Oefen\\Program.vb",
+              "RelativeToolTip": "Hoofdstuk7_Oefening6_Oefen\\Program.vb",
+              "ViewState": "AgIAADYAAAAAAAAAAAA8wDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-05T17:38:54.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
