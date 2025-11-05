@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hoofdstuk6_Oefening2/1.0.0": {
+        "runtime": {
+          "Hoofdstuk6_Oefening2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hoofdstuk6_Oefening2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
