@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jensd\\source\\repos\\Jens_de_Guchteneire_OOP_Finaal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57B78F9-72B7-4887-A69D-16E0279E0A90}|Jens_de_Guchteneire_OOP_Finaal\\Jens_de_Guchteneire_OOP_Finaal.vbproj|c:\\users\\jensd\\source\\repos\\jens_de_guchteneire_oop_finaal\\jens_de_guchteneire_oop_finaal\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C57B78F9-72B7-4887-A69D-16E0279E0A90}|Jens_de_Guchteneire_OOP_Finaal\\Jens_de_Guchteneire_OOP_Finaal.vbproj|solutionrelative:jens_de_guchteneire_oop_finaal\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\Jens_de_Guchteneire_OOP_Finaal\\Jens_de_Guchteneire_OOP_Finaal\\Program.vb",
+              "RelativeDocumentMoniker": "Jens_de_Guchteneire_OOP_Finaal\\Program.vb",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\Jens_de_Guchteneire_OOP_Finaal\\Jens_de_Guchteneire_OOP_Finaal\\Program.vb",
+              "RelativeToolTip": "Jens_de_Guchteneire_OOP_Finaal\\Program.vb",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwH4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-06T10:22:33.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
