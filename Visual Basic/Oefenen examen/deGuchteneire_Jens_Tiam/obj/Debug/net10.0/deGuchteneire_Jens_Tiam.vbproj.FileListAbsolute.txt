@@ -1,0 +1,14 @@
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\bin\Debug\net10.0\deGuchteneire_Jens_Tiam.exe
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\bin\Debug\net10.0\deGuchteneire_Jens_Tiam.deps.json
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\bin\Debug\net10.0\deGuchteneire_Jens_Tiam.runtimeconfig.json
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\bin\Debug\net10.0\deGuchteneire_Jens_Tiam.dll
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\bin\Debug\net10.0\deGuchteneire_Jens_Tiam.pdb
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\deGuchteneire_Jens_Tiam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\deGuchteneire_Jens_Tiam.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\deGuchteneire_Jens_Tiam.AssemblyInfo.vb
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\deGuchteneire_Jens_Tiam.vbproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\deGuchteneire_Jens_Tiam.dll
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\refint\deGuchteneire_Jens_Tiam.dll
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\deGuchteneire_Jens_Tiam.pdb
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\deGuchteneire_Jens_Tiam.genruntimeconfig.cache
+C:\Users\jensd\source\repos\deGuchteneire_Jens_Tiam\obj\Debug\net10.0\ref\deGuchteneire_Jens_Tiam.dll
