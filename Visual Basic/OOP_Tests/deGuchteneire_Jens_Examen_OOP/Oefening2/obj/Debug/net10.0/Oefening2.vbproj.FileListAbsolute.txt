@@ -1,0 +1,14 @@
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\Oefening2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\Oefening2.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\Oefening2.AssemblyInfo.vb
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\Oefening2.vbproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\Oefening2\bin\Debug\net10.0\Oefening2.exe
+C:\Users\jensd\source\repos\Oefening2\bin\Debug\net10.0\Oefening2.deps.json
+C:\Users\jensd\source\repos\Oefening2\bin\Debug\net10.0\Oefening2.runtimeconfig.json
+C:\Users\jensd\source\repos\Oefening2\bin\Debug\net10.0\Oefening2.dll
+C:\Users\jensd\source\repos\Oefening2\bin\Debug\net10.0\Oefening2.pdb
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\Oefening2.dll
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\refint\Oefening2.dll
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\Oefening2.pdb
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\Oefening2.genruntimeconfig.cache
+C:\Users\jensd\source\repos\Oefening2\obj\Debug\net10.0\ref\Oefening2.dll
