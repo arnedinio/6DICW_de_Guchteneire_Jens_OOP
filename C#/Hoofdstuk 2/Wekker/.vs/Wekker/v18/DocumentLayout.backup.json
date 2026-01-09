@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\wekker\\wekkerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|c:\\users\\jensd\\gitrepositories\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\wekker\\wekker\\wekkerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\wekker\\wekkerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekkerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\wekker\\wekker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F323FE-208F-4B61-9F23-B7829C55DC25}|Wekker\\Wekker.csproj|solutionrelative:wekker\\wekker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wekkerform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\Wekker\\Wekkerform.Designer.cs",
+              "RelativeDocumentMoniker": "Wekker\\Wekkerform.Designer.cs",
+              "ToolTip": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\Wekker\\Wekkerform.Designer.cs",
+              "RelativeToolTip": "Wekker\\Wekkerform.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAMwEMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:40:42.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wekker.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\Wekker\\Wekker.cs",
+              "RelativeDocumentMoniker": "Wekker\\Wekker.cs",
+              "ToolTip": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\Wekker\\Wekker.cs",
+              "RelativeToolTip": "Wekker\\Wekker.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:36:04.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wekkerform.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\Wekker\\Wekkerform.cs",
+              "RelativeDocumentMoniker": "Wekker\\Wekkerform.cs",
+              "ToolTip": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\Wekker\\Wekkerform.cs",
+              "RelativeToolTip": "Wekker\\Wekkerform.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAApwCYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:23:28.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wekkerform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\Wekker\\Wekkerform.cs",
+              "RelativeDocumentMoniker": "Wekker\\Wekkerform.cs",
+              "ToolTip": "C:\\Users\\jensd\\GitRepositories\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_2\\_voorbeelden\\Wekker\\Wekker\\Wekkerform.cs [Design]",
+              "RelativeToolTip": "Wekker\\Wekkerform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:22:24.727Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
