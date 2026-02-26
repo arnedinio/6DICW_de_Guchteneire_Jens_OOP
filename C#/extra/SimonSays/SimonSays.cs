@@ -1,0 +1,65 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace SimonSays
+{
+    internal class SimonSays
+    {
+        public List<string> _sequence { get; set; }
+        public int _score { get; set; }
+        public Random _rand;
+        public Boolean _aanHetSpelen;
+        public int _aantalingegeven;
+
+        public SimonSays() 
+        {
+            _sequence = new List<string>();
+            _score = 0;
+            _aantalingegeven = 0;
+            _rand = new Random();
+           
+        }
+        
+        public void speel()
+        {
+            string[] kleuren = { "rood", "groen", "blauw", "geel" };
+            string nieuweKleur = kleuren[_rand.Next(kleuren.Length)];
+            _sequence.Add(nieuweKleur);
+            _aanHetSpelen = true;
+        }
+
+        public void reset()
+        {
+            _sequence = [];
+            _score = 0;
+            _aantalingegeven = 0;
+            _aanHetSpelen = false;
+        }
+
+        public int Score
+        {
+            get { return _score; }
+            set { _score = value; }
+        }
+
+        public Boolean AanHetSpelen
+        {
+            get { return _aanHetSpelen;  }
+            set { _aanHetSpelen = value; }
+        }
+
+        public int AantalIngegeven
+        {
+            get { return _aantalingegeven; }
+            set { _aantalingegeven = value; }
+        }
+
+        public List<string> Sequence
+        {
+            get { return _sequence; }
+            set { _sequence = value; }
+        }
+
+    }
+}

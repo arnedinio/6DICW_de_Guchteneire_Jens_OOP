@@ -1,0 +1,16 @@
+C:\Users\jensd\source\repos\SimonSays\bin\Debug\net10.0-windows\SimonSays.exe
+C:\Users\jensd\source\repos\SimonSays\bin\Debug\net10.0-windows\SimonSays.deps.json
+C:\Users\jensd\source\repos\SimonSays\bin\Debug\net10.0-windows\SimonSays.runtimeconfig.json
+C:\Users\jensd\source\repos\SimonSays\bin\Debug\net10.0-windows\SimonSays.dll
+C:\Users\jensd\source\repos\SimonSays\bin\Debug\net10.0-windows\SimonSays.pdb
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.Form1.resources
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.csproj.GenerateResource.cache
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.AssemblyInfo.cs
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.csproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.dll
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\refint\SimonSays.dll
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.pdb
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\SimonSays.genruntimeconfig.cache
+C:\Users\jensd\source\repos\SimonSays\obj\Debug\net10.0-windows\ref\SimonSays.dll
