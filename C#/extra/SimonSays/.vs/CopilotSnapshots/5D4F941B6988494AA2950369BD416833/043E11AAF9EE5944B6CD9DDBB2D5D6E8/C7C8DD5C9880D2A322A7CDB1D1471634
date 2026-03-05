@@ -1,0 +1,234 @@
+﻿namespace SimonSays
+{
+    using System;
+    using System.Threading.Tasks;
+    public partial class Form1 : Form
+    {
+        private SimonSays _simonSays;
+        private bool _sequenceIsPlaying;
+        public Form1()
+        {
+            InitializeComponent();
+            _simonSays = new SimonSays();
+            blauwPictureBox.BackColor = Color.DarkBlue;
+            geelPictureBox.BackColor = Color.DarkGoldenrod;
+            groenPictureBox.BackColor = Color.DarkGreen;
+            roodPictureBox.BackColor = Color.DarkRed;
+            UpdateHighScoreLabels();
+        }
+
+        private async Task loopSequenceAf()
+        {
+            _sequenceIsPlaying = true;
+            await Task.Delay(1500);
+            for (int i = 0; i < _simonSays.Sequence.Count; i++)
+            {
+                //functie om sequence af te spelen
+                if (_simonSays.Sequence[i].Equals("rood"))
+                {
+                    // speel het geluid af voor de kleur rood
+                    roodPictureBox.BackColor = Color.Red;
+                    await Task.Delay(400);
+                    roodPictureBox.BackColor = Color.DarkRed;
+                }
+                else if (_simonSays.Sequence[i].Equals("groen"))
+                {
+                    // speel het geluid af voor de kleur groen
+                    groenPictureBox.BackColor = Color.Green;
+                    await Task.Delay(400);
+                    groenPictureBox.BackColor = Color.DarkGreen;
+                }
+                else if (_simonSays.Sequence[i].Equals("blauw"))
+                {
+                    // speel het geluid af voor de kleur blauw
+                    blauwPictureBox.BackColor = Color.Blue;
+                    await Task.Delay(400);
+                    blauwPictureBox.BackColor = Color.DarkBlue;
+                }
+                else if (_simonSays.Sequence[i].Equals("geel"))
+                {
+                    // speel het geluid af voor de kleur geel
+                    geelPictureBox.BackColor = Color.Yellow;
+                    await Task.Delay(400);
+                    geelPictureBox.BackColor = Color.DarkGoldenrod;
+                }
+                await Task.Delay(300);
+            }
+            _sequenceIsPlaying = false;
+        }
+
+        private async void button1_Click(object sender, EventArgs e)
+        {
+            if (_simonSays.AanHetSpelen)
+            {
+                _simonSays.reset();
+                button1.Text = "Start";
+                blauwPictureBox.BackColor = Color.DarkBlue;
+                geelPictureBox.BackColor = Color.DarkGoldenrod;
+                groenPictureBox.BackColor = Color.DarkGreen;
+                roodPictureBox.BackColor = Color.DarkRed;
+                UpdateHighScoreLabels();
+            }
+            else
+            {
+                _simonSays.speel();
+                button1.Text = "Reset";
+                blauwPictureBox.BackColor = Color.DarkBlue;
+                geelPictureBox.BackColor = Color.DarkGoldenrod;
+                groenPictureBox.BackColor = Color.DarkGreen;
+                roodPictureBox.BackColor = Color.DarkRed;
+                await loopSequenceAf();
+            }
+        }
+
+        private async void roodPictureBox_Click(object sender, EventArgs e)
+        {
+            if (!_simonSays.AanHetSpelen) return;
+
+            // Light up the button
+            roodPictureBox.BackColor = Color.Red;
+            await Task.Delay(400);
+            roodPictureBox.BackColor = Color.DarkRed;
+
+            if (_simonSays.Sequence[_simonSays.AantalIngegeven] == "rood")
+            {
+                _simonSays.AantalIngegeven++;
+
+                if (_simonSays.Sequence.Count == _simonSays.AantalIngegeven)
+                {
+                    _simonSays.AantalIngegeven = 0;
+                    _simonSays.speel();
+                    await loopSequenceAf();
+                }
+            }
+            else
+            {
+                UpdateHighScoreLabels();
+                _simonSays.reset();
+                button1.Text = "Start";
+            }
+        }
+
+        private async void blauwPictureBox_Click(object sender, EventArgs e)
+        {
+            if (!_simonSays.AanHetSpelen || _sequenceIsPlaying) return;
+
+            // Light up the button
+            blauwPictureBox.BackColor = Color.Blue;
+            await Task.Delay(400);
+            blauwPictureBox.BackColor = Color.DarkBlue;
+
+            if (_simonSays.Sequence[_simonSays.AantalIngegeven] == "blauw")
+            {
+                _simonSays.AantalIngegeven++;
+
+                if (_simonSays.Sequence.Count == _simonSays.AantalIngegeven)
+                {
+                    _simonSays.AantalIngegeven = 0;
+                    _simonSays.speel();
+                    await loopSequenceAf();
+                }
+            }
+            else
+            {
+                _simonSays.reset();
+                button1.Text = "Start";
+                UpdateHighScoreLabels();
+            }
+        }
+
+        private async void geelPictureBox_Click(object sender, EventArgs e)
+        {
+            if (!_simonSays.AanHetSpelen || _sequenceIsPlaying) return;
+
+            // Light up the button
+            geelPictureBox.BackColor = Color.Yellow;
+            await Task.Delay(400);
+            geelPictureBox.BackColor = Color.DarkGoldenrod;
+
+            if (_simonSays.Sequence[_simonSays.AantalIngegeven] == "geel")
+            {
+                _simonSays.AantalIngegeven++;
+
+                if (_simonSays.Sequence.Count == _simonSays.AantalIngegeven)
+                {
+                    _simonSays.AantalIngegeven = 0;
+                    _simonSays.speel();
+                    await loopSequenceAf();
+                }
+            }
+            else
+            {
+                await GameOverFlash();
+                UpdateHighScoreLabels();
+                _simonSays.reset();
+                button1.Text = "Start";
+            }
+        }
+
+        private async void groenPictureBox_Click(object sender, EventArgs e)
+        {
+            if (!_simonSays.AanHetSpelen) return;
+
+            // Light up the button
+            groenPictureBox.BackColor = Color.Green;
+            await Task.Delay(400);
+            groenPictureBox.BackColor = Color.DarkGreen;
+
+            if (_simonSays.Sequence[_simonSays.AantalIngegeven] == "groen")
+            {
+                _simonSays.AantalIngegeven++;
+
+                if (_simonSays.Sequence.Count == _simonSays.AantalIngegeven)
+                {
+                    _simonSays.AantalIngegeven = 0;
+                    _simonSays.speel();
+                    await loopSequenceAf();
+                }
+            }
+            else
+            {
+                await GameOverFlash();
+                _simonSays.reset();
+                UpdateHighScoreLabels();
+                button1.Text = "Start";
+            }
+        }
+
+        private async Task GameOverFlash()
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                roodPictureBox.BackColor = Color.Red;
+                groenPictureBox.BackColor = Color.Lime;
+                blauwPictureBox.BackColor = Color.Blue;
+                geelPictureBox.BackColor = Color.Yellow;
+                await Task.Delay(200);
+
+                roodPictureBox.BackColor = Color.DarkRed;
+                groenPictureBox.BackColor = Color.DarkGreen;
+                blauwPictureBox.BackColor = Color.DarkBlue;
+                geelPictureBox.BackColor = Color.DarkGoldenrod;
+                await Task.Delay(200);
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void highScoreLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void UpdateHighScoreLabels()
+        {
+            var scores = _simonSays.HighScores;
+            highScoreLabel.Text = $"1st: {(scores[0] == 0 ? "-" : scores[0].ToString())}";
+            secondScoreLabel.Text = $"2nd: {(scores[1] == 0 ? "-" : scores[1].ToString())}";
+            thirdScoreLabel.Text = $"3rd: {(scores[2] == 0 ? "-" : scores[2].ToString())}";
+        }
+    }
+}

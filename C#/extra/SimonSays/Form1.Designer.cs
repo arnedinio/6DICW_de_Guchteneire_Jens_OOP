@@ -34,6 +34,9 @@
             geelPictureBox = new PictureBox();
             roodPictureBox = new PictureBox();
             button1 = new Button();
+            highScoreLabel = new Label();
+            thirdScoreLabel = new Label();
+            secondScoreLabel = new Label();
             ((System.ComponentModel.ISupportInitialize)groenPictureBox).BeginInit();
             ((System.ComponentModel.ISupportInitialize)blauwPictureBox).BeginInit();
             ((System.ComponentModel.ISupportInitialize)geelPictureBox).BeginInit();
@@ -73,7 +76,7 @@
             // roodPictureBox
             // 
             roodPictureBox.BackColor = Color.Red;
-            roodPictureBox.Location = new Point(24, 21);
+            roodPictureBox.Location = new Point(24, 23);
             roodPictureBox.Name = "roodPictureBox";
             roodPictureBox.Size = new Size(257, 131);
             roodPictureBox.TabIndex = 4;
@@ -82,7 +85,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(329, 194);
+            button1.Location = new Point(329, 190);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 5;
@@ -90,23 +93,59 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // highScoreLabel
+            // 
+            highScoreLabel.AutoSize = true;
+            highScoreLabel.Location = new Point(326, 23);
+            highScoreLabel.Margin = new Padding(2, 0, 2, 0);
+            highScoreLabel.Name = "highScoreLabel";
+            highScoreLabel.Size = new Size(102, 20);
+            highScoreLabel.TabIndex = 6;
+            highScoreLabel.Text = "Top score hier";
+            highScoreLabel.Click += highScoreLabel_Click;
+            // 
+            // thirdScoreLabel
+            // 
+            thirdScoreLabel.AutoSize = true;
+            thirdScoreLabel.Location = new Point(326, 92);
+            thirdScoreLabel.Margin = new Padding(2, 0, 2, 0);
+            thirdScoreLabel.Name = "thirdScoreLabel";
+            thirdScoreLabel.Size = new Size(102, 20);
+            thirdScoreLabel.TabIndex = 7;
+            thirdScoreLabel.Text = "Top score hier";
+            // 
+            // secondScoreLabel
+            // 
+            secondScoreLabel.AutoSize = true;
+            secondScoreLabel.Location = new Point(326, 58);
+            secondScoreLabel.Margin = new Padding(2, 0, 2, 0);
+            secondScoreLabel.Name = "secondScoreLabel";
+            secondScoreLabel.Size = new Size(102, 20);
+            secondScoreLabel.TabIndex = 8;
+            secondScoreLabel.Text = "Top score hier";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(secondScoreLabel);
+            Controls.Add(thirdScoreLabel);
+            Controls.Add(highScoreLabel);
             Controls.Add(button1);
             Controls.Add(roodPictureBox);
             Controls.Add(geelPictureBox);
             Controls.Add(blauwPictureBox);
             Controls.Add(groenPictureBox);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Nummer 1 speler komt hier";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)groenPictureBox).EndInit();
             ((System.ComponentModel.ISupportInitialize)blauwPictureBox).EndInit();
             ((System.ComponentModel.ISupportInitialize)geelPictureBox).EndInit();
             ((System.ComponentModel.ISupportInitialize)roodPictureBox).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -117,5 +156,8 @@
         private PictureBox geelPictureBox;
         private PictureBox roodPictureBox;
         private Button button1;
+        private Label highScoreLabel;
+        private Label thirdScoreLabel;
+        private Label secondScoreLabel;
     }
 }
