@@ -1,0 +1,28 @@
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_eindsituatie\Printburo\Business\bin\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_eindsituatie\Printburo\Business\bin\Debug\Business.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_eindsituatie\Printburo\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_eindsituatie\Printburo\Business\obj\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_eindsituatie\Printburo\Business\obj\Debug\Business.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\obj\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\obj\Debug\Business.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\bin\Debug\Business.dll
+G:\2017_2018\Drielagenmodel\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\bin\Debug\Business.pdb
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\bin\Debug\Business.dll
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\bin\Debug\Business.pdb
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\obj\Debug\Business.dll
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_oplossing\Printburo\Business\obj\Debug\Business.pdb
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\bin\Debug\Business.dll
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\bin\Debug\Business.pdb
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.dll
+D:\2018_2019\Drielagenmodel\_bronbestanden\voorLeerkrachten\_hoofdstuk_7\_oefeningen\_beginsituatie\Printburo\Business\obj\Debug\Business.pdb
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\Hoofdstuk 7\Printburo\Business\bin\Debug\Business.dll
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\Hoofdstuk 7\Printburo\Business\bin\Debug\Business.pdb
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\Hoofdstuk 7\Printburo\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\Hoofdstuk 7\Printburo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\Hoofdstuk 7\Printburo\Business\obj\Debug\Business.dll
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\Hoofdstuk 7\Printburo\Business\obj\Debug\Business.pdb

@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Business;
+
+namespace Presentation
+{
+    public partial class CopierForm : Form
+    {
+        private Copier _copier;
+        
+        public CopierForm()
+        {
+            InitializeComponent();
+            _copier = new Copier();
+            tellerTextBox.Text = "0";
+            wachtrijListBox.Items.Add("Hier komen printopdrachten te staan!");
+        }
+
+        private void inWachtrijButton_Click(object sender, EventArgs e)
+        {
+            if (paginasNumericUpDown.Value * kopiesNumericUpDown.Value > 0)
+            {
+                _copier.VoegPrintopdrachtToe((int)paginasNumericUpDown.Value, (int)kopiesNumericUpDown.Value);
+                wachtrijListBox.Items.Clear();
+                foreach (var p in _copier.Wachtrij)
+                {
+                    wachtrijListBox.Items.Add(p);
+                }
+            }
+        }
+    }
+}

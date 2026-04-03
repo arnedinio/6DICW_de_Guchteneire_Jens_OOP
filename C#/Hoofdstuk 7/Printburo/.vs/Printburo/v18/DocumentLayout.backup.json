@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|c:\\users\\jensd\\repos\\6dicw_de_guchteneire_jens_oop\\c#\\hoofdstuk 7\\printburo\\business\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9873FA5E-7553-4B2C-87D3-3D7A55330B57}|Business\\Business.csproj|solutionrelative:business\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43D93BD9-3173-466B-834D-4EB6A9C43044}|Presentation\\Presentation.csproj|solutionrelative:presentation\\copierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CopierForm.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\Presentation\\CopierForm.cs",
+              "RelativeDocumentMoniker": "Presentation\\CopierForm.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\Presentation\\CopierForm.cs",
+              "RelativeToolTip": "Presentation\\CopierForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:00:28.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Copier.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\Business\\Copier.cs",
+              "RelativeDocumentMoniker": "Business\\Copier.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\Business\\Copier.cs",
+              "RelativeToolTip": "Business\\Copier.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:54:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CopierForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\Presentation\\CopierForm.cs",
+              "RelativeDocumentMoniker": "Presentation\\CopierForm.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\Hoofdstuk 7\\Printburo\\Presentation\\CopierForm.cs [Design]",
+              "RelativeToolTip": "Presentation\\CopierForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:59:44.271Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

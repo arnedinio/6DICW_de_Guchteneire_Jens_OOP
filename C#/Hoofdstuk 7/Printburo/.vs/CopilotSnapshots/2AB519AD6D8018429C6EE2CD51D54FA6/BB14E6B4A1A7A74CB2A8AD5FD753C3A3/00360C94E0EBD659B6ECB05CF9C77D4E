@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Business;
+
+namespace Presentation
+{
+    public partial class CopierForm : Form
+    {
+        private Copier _copier;
+        
+        public CopierForm()
+        {
+            InitializeComponent();
+            _copier = new Copier();
+            tellerTextBox.Text = "0";
+            wachtrijListBox.Items.Clear();
+        }
+
+        private void inWachtrijButton_Click(object sender, EventArgs e)
+        {
+            if (paginasNumericUpDown.Value * kopiesNumericUpDown.Value > 0)
+            {
+                wachtrijListBox.Items.Add(_copier.VoegPrintopdrachtToe((int)paginasNumericUpDown.Value, (int)kopiesNumericUpDown.Value));
+            }
+        }
+
+        private void printButton_Click(object sender, EventArgs e)
+        {
+            _copier.Print();
+            wachtrijListBox.Items.RemoveAt(0);
+            tellerTextBox.Text = _copier.Teller.ToString();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            _copier.PrintMetVoorrang((Printopdracht)wachtrijListBox.SelectedItem);
+        }
+    }
+}
