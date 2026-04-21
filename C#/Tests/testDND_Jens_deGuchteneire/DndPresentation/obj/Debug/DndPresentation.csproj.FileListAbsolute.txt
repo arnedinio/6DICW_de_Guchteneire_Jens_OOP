@@ -1,0 +1,14 @@
+C:\Users\jensd\source\repos\DndPresentation\obj\Debug\DndPresentation.csproj.AssemblyReference.cache
+C:\Users\jensd\source\repos\DndPresentation\obj\Debug\DndPresentation.Properties.Resources.resources
+C:\Users\jensd\source\repos\DndPresentation\obj\Debug\DndPresentation.StartForm.resources
+C:\Users\jensd\source\repos\DndPresentation\obj\Debug\DndPresentation.csproj.GenerateResource.cache
+C:\Users\jensd\source\repos\DndPresentation\obj\Debug\DndPresentation.csproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\DndPresentation\bin\Debug\DndPresentation.exe.config
+C:\Users\jensd\source\repos\DndPresentation\bin\Debug\DndPresentation.exe
+C:\Users\jensd\source\repos\DndPresentation\bin\Debug\DndPresentation.pdb
+C:\Users\jensd\source\repos\DndPresentation\bin\Debug\DndBusiness.exe
+C:\Users\jensd\source\repos\DndPresentation\bin\Debug\DndBusiness.pdb
+C:\Users\jensd\source\repos\DndPresentation\bin\Debug\DndBusiness.exe.config
+C:\Users\jensd\source\repos\DndPresentation\obj\Debug\DndPrese.517BDB79.Up2Date
+C:\Users\jensd\source\repos\DndPresentation\obj\Debug\DndPresentation.exe
+C:\Users\jensd\source\repos\DndPresentation\obj\Debug\DndPresentation.pdb

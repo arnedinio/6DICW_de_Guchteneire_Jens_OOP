@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../DndBusiness/DndBussines.csproj" Id="782e0710-b276-4b99-9f23-d1de5f996bd0" />
+  <Project Path="DndPresentation.csproj" Id="37f19282-d802-46ea-b74b-addbb54d55c3" />
+</Solution>

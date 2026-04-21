@@ -1,0 +1,10 @@
+C:\Users\jensd\source\repos\DndBusiness\obj\Debug\DndBussines.csproj.AssemblyReference.cache
+C:\Users\jensd\source\repos\DndBusiness\obj\Debug\DndBusiness.DetailForm.resources
+C:\Users\jensd\source\repos\DndBusiness\obj\Debug\DndBusiness.Properties.Resources.resources
+C:\Users\jensd\source\repos\DndBusiness\obj\Debug\DndBussines.csproj.GenerateResource.cache
+C:\Users\jensd\source\repos\DndBusiness\obj\Debug\DndBussines.csproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\DndBusiness\bin\Debug\DndBusiness.exe.config
+C:\Users\jensd\source\repos\DndBusiness\bin\Debug\DndBusiness.exe
+C:\Users\jensd\source\repos\DndBusiness\bin\Debug\DndBusiness.pdb
+C:\Users\jensd\source\repos\DndBusiness\obj\Debug\DndBusiness.exe
+C:\Users\jensd\source\repos\DndBusiness\obj\Debug\DndBusiness.pdb

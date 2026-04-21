@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jensd\\source\\repos\\DndPresentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F19282-D802-46EA-B74B-ADDBB54D55C3}|DndPresentation.csproj|c:\\users\\jensd\\source\\repos\\dndpresentation\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F19282-D802-46EA-B74B-ADDBB54D55C3}|DndPresentation.csproj|solutionrelative:startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F19282-D802-46EA-B74B-ADDBB54D55C3}|DndPresentation.csproj|c:\\users\\jensd\\source\\repos\\dndpresentation\\startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F19282-D802-46EA-B74B-ADDBB54D55C3}|DndPresentation.csproj|solutionrelative:startform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782E0710-B276-4B99-9F23-D1DE5F996BD0}|..\\DndBusiness\\DndBussines.csproj|c:\\users\\jensd\\source\\repos\\dndbusiness\\detailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782E0710-B276-4B99-9F23-D1DE5F996BD0}|..\\DndBusiness\\DndBussines.csproj|c:\\users\\jensd\\source\\repos\\dndbusiness\\detailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F19282-D802-46EA-B74B-ADDBB54D55C3}|DndPresentation.csproj|c:\\users\\jensd\\source\\repos\\dndpresentation\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37F19282-D802-46EA-B74B-ADDBB54D55C3}|DndPresentation.csproj|solutionrelative:startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782E0710-B276-4B99-9F23-D1DE5F996BD0}|..\\DndBusiness\\DndBusiness.csproj|c:\\users\\jensd\\source\\repos\\dndbusiness\\dnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782E0710-B276-4B99-9F23-D1DE5F996BD0}|..\\DndBusiness\\DndBussines.csproj|c:\\users\\jensd\\source\\repos\\dndbusiness\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782E0710-B276-4B99-9F23-D1DE5F996BD0}|..\\DndBusiness\\DndBussines.csproj|c:\\users\\jensd\\source\\repos\\dndbusiness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\DetailForm.cs",
+              "RelativeDocumentMoniker": "..\\DndBusiness\\DetailForm.cs",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\DetailForm.cs [Design]",
+              "RelativeToolTip": "..\\DndBusiness\\DetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:57:45.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\DetailForm.cs",
+              "RelativeDocumentMoniker": "..\\DndBusiness\\DetailForm.cs",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\DetailForm.cs",
+              "RelativeToolTip": "..\\DndBusiness\\DetailForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:54:08.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\DndPresentation\\StartForm.Designer.cs",
+              "RelativeDocumentMoniker": "StartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\DndPresentation\\StartForm.Designer.cs",
+              "RelativeToolTip": "StartForm.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:27:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\DndPresentation\\StartForm.cs",
+              "RelativeDocumentMoniker": "StartForm.cs",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\DndPresentation\\StartForm.cs",
+              "RelativeToolTip": "StartForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvx4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:27:11.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\DndPresentation\\StartForm.cs",
+              "RelativeDocumentMoniker": "StartForm.cs",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\DndPresentation\\StartForm.cs [Design]",
+              "RelativeToolTip": "StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:24:39.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DnD.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\DnD.cs",
+              "RelativeDocumentMoniker": "..\\DndBusiness\\DnD.cs",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\DnD.cs",
+              "RelativeToolTip": "..\\DndBusiness\\DnD.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:45:17.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DndBusiness\\Program.cs",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\Program.cs",
+              "RelativeToolTip": "..\\DndBusiness\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:36:02.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\Karakter.cs",
+              "RelativeDocumentMoniker": "..\\DndBusiness\\Karakter.cs",
+              "ToolTip": "C:\\Users\\jensd\\source\\repos\\DndBusiness\\Karakter.cs",
+              "RelativeToolTip": "..\\DndBusiness\\Karakter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:18:24.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
