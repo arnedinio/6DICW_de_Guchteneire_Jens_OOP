@@ -1,0 +1,8 @@
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\extra\SimonSays\obj\Debug\net10.0-windows\SimonSays.Form1.resources
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\extra\SimonSays\obj\Debug\net10.0-windows\SimonSays.HighscoresFormcs.resources
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\extra\SimonSays\obj\Debug\net10.0-windows\Presentation.csproj.GenerateResource.cache
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\extra\SimonSays\obj\Debug\net10.0-windows\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\extra\SimonSays\obj\Debug\net10.0-windows\Presentation.AssemblyInfoInputs.cache
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\extra\SimonSays\obj\Debug\net10.0-windows\Presentation.AssemblyInfo.cs
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\extra\SimonSays\obj\Debug\net10.0-windows\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\jensd\repos\6DICW_de_Guchteneire_Jens_OOP\C#\extra\SimonSays\obj\Debug\net10.0-windows\Presentation.sourcelink.json

@@ -1,15 +1,16 @@
+using Business;
 namespace SimonSays
 {
     using System;
     using System.Threading.Tasks;
     public partial class Form1 : Form
     {
-        private SimonSays _simonSays;
+        private Business.SimonSays _simonSays;
         private bool _sequenceIsPlaying;
         public Form1()
         {
             InitializeComponent();
-            _simonSays = new SimonSays();
+            _simonSays = new Business.SimonSays();
             blauwPictureBox.BackColor = Color.DarkBlue;
             geelPictureBox.BackColor = Color.DarkGoldenrod;
             groenPictureBox.BackColor = Color.DarkGreen;

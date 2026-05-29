@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SimonSays
+namespace Business
 {
-    internal class SimonSays
+    public class SimonSays
     {
         public List<string> _sequence { get; set; }
         public int _score { get; set; }

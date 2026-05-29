@@ -1,18 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jensd\\source\\repos\\SimonSays\\",
+  "WorkspaceRootPath": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|c:\\users\\jensd\\source\\repos\\simonsays\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B850652C-0C4D-41A1-B243-DF75FC774D0B}|..\\DataAccess\\DataAccess.csproj|c:\\users\\jensd\\repos\\6dicw_de_guchteneire_jens_oop\\c#\\extra\\dataaccess\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|c:\\users\\jensd\\repos\\6dicw_de_guchteneire_jens_oop\\c#\\extra\\simonsays\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|c:\\users\\jensd\\source\\repos\\simonsays\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|c:\\users\\jensd\\repos\\6dicw_de_guchteneire_jens_oop\\c#\\extra\\simonsays\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|c:\\users\\jensd\\source\\repos\\simonsays\\simonsays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|solutionrelative:simonsays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|c:\\users\\jensd\\repos\\6dicw_de_guchteneire_jens_oop\\c#\\extra\\simonsays\\highscoresformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|solutionrelative:highscoresformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|c:\\users\\jensd\\repos\\6dicw_de_guchteneire_jens_oop\\c#\\extra\\simonsays\\highscoresformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05297E-072A-67A6-50CF-1168AF125535}|SimonSays.csproj|solutionrelative:highscoresformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47EDB9E-F4F0-4D1B-8A04-2215CADA2F75}|..\\Business\\Business.csproj|c:\\users\\jensd\\repos\\6dicw_de_guchteneire_jens_oop\\c#\\extra\\business\\simonsays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +32,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\SimonSays\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\jensd\\source\\repos\\SimonSays\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SimonSays.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\Business\\SimonSays.cs",
+              "RelativeDocumentMoniker": "..\\Business\\SimonSays.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\Business\\SimonSays.cs",
+              "RelativeToolTip": "..\\Business\\SimonSays.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T10:24:36.103Z",
+              "WhenOpened": "2026-05-29T09:31:02.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\SimonSays\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\jensd\\source\\repos\\SimonSays\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\DataAccess\\DataAccess.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\DataAccess\\DataAccess.cs",
+              "RelativeToolTip": "..\\DataAccess\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T11:05:00.68Z",
+              "WhenOpened": "2026-05-29T09:30:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HighscoresFormcs.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\HighscoresFormcs.cs",
+              "RelativeDocumentMoniker": "HighscoresFormcs.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\HighscoresFormcs.cs",
+              "RelativeToolTip": "HighscoresFormcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:27:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HighscoresFormcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\HighscoresFormcs.cs",
+              "RelativeDocumentMoniker": "HighscoresFormcs.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\HighscoresFormcs.cs [Design]",
+              "RelativeToolTip": "HighscoresFormcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:26:02.556Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SimonSays.cs",
-              "DocumentMoniker": "C:\\Users\\jensd\\source\\repos\\SimonSays\\SimonSays.cs",
-              "RelativeDocumentMoniker": "SimonSays.cs",
-              "ToolTip": "C:\\Users\\jensd\\source\\repos\\SimonSays\\SimonSays.cs",
-              "RelativeToolTip": "SimonSays.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAwA8AAAAbAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T10:28:43.933Z",
+              "WhenOpened": "2026-05-29T09:24:53.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:24:36.103Z",
               "EditorCaption": ""
             }
           ]

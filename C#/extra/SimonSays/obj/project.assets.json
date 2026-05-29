@@ -1,31 +1,64 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
-    "net10.0-windows7.0": {}
+    "net10.0-windows": {
+      "Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Business.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Business": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Business/1.0.0": {
+      "type": "project",
+      "path": "../Business/Business.csproj",
+      "msbuildProject": "../Business/Business.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0-windows7.0": []
+    "net10.0-windows": [
+      "Business >= 1.0.0",
+      "DataAccess >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\jensd\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jensd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jensd\\source\\repos\\SimonSays\\SimonSays.csproj",
-      "projectName": "SimonSays",
-      "projectPath": "C:\\Users\\jensd\\source\\repos\\SimonSays\\SimonSays.csproj",
+      "projectUniqueName": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\Presentation.csproj",
+      "projectName": "Presentation",
+      "projectPath": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\Presentation.csproj",
       "packagesPath": "C:\\Users\\jensd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jensd\\source\\repos\\SimonSays\\obj\\",
+      "outputPath": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\SimonSays\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\jensd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -36,9 +69,17 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net10.0-windows7.0": {
+        "net10.0-windows": {
+          "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\Business\\Business.csproj"
+            },
+            "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\jensd\\repos\\6DICW_de_Guchteneire_Jens_OOP\\C#\\extra\\DataAccess\\DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -51,10 +92,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
-      "net10.0-windows7.0": {
+      "net10.0-windows": {
+        "framework": "net10.0-windows7.0",
         "targetAlias": "net10.0-windows",
         "imports": [
           "net461",
@@ -75,7 +117,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

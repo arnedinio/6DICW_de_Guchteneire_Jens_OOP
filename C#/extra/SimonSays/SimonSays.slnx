@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="SimonSays.csproj" />
+  <Project Path="../Business/Business.csproj" Id="f47edb9e-f4f0-4d1b-8a04-2215cada2f75" />
+  <Project Path="../DataAccess/DataAccess.csproj" Id="b850652c-0c4d-41a1-b243-df75fc774d0b" />
+  <Project Path="Presentation.csproj" />
 </Solution>
