@@ -1,0 +1,11 @@
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\bin\Debug\net10.0\Business.deps.json
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\bin\Debug\net10.0\Business.dll
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\bin\Debug\net10.0\Business.pdb
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\obj\Debug\net10.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\obj\Debug\net10.0\Business.AssemblyInfoInputs.cache
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\obj\Debug\net10.0\Business.AssemblyInfo.cs
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\obj\Debug\net10.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\obj\Debug\net10.0\Business.dll
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\obj\Debug\net10.0\refint\Business.dll
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\obj\Debug\net10.0\Business.pdb
+C:\Users\jensd\source\repos\6Dicw_deGuchteneire_Jens_OOPEindexamen.sln\Business\obj\Debug\net10.0\ref\Business.dll
